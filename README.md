@@ -1,5 +1,15 @@
 # <center> Hudson Werneck Ferreira </center>
 
+nao sei meu nome <sup>é verdade</sup><sub>é mentira</sub>
+
+<kbd>susios + susintos</kbd>
+
+aaaaaaaaa <mark>cara</mark>
+
+---
+***
+___
+
 ~~~javascript
  🎗 javascriptzin
 ~~~
@@ -16,10 +26,8 @@ coluna topico 1 | coluna topico 2
 :---------------: | ---------------:
 um              | dois
 tres            | quatro
- 
 
-
-* google 
+* google
 * googlin
 
 1. google
@@ -34,5 +42,5 @@ tres            | quatro
 
 > __a de__
 > _amor_
-> **b de**
-> *baixinho*
+> __b de__
+> _baixinho_
